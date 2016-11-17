@@ -1,0 +1,4 @@
+{!Contact.Title} {!Contact.LastName}
+   Your new Payroll Status is {!Payroll__c.Payroll_Status__c}
+
+ Atentamente, {!Contact.OwnerFullName}

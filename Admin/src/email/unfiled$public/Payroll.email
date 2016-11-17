@@ -1,0 +1,15 @@
+{!Payroll__c.Contact__c}
+
+Your payroll information:
+
+Payroll name: {!Payroll__c.Name}
+Start Date: {!Payroll__c.Start_Date__c}
+End Date: {!Payroll__c.End_Date__c}
+Gross Pay: {!Payroll__c.Gross_Pay__c}
+Net Pay: {!Payroll__c.Net_Pay__c}
+Has Dependants: {!Payroll__c.Has_dependants__c}
+Number of dependants: {!Payroll__c.Number_of_dependants__c}
+Is Submitted: {!Payroll__c.Is_Submitted__c}
+Payrolls Status: {!Payroll__c.Payroll_Status__c}
+
+Saludos, {!Payroll__c.OwnerFirstName}

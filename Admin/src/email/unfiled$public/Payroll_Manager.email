@@ -1,0 +1,3 @@
+A new Payroll need Approve:
+
+Payroll: {!Payroll__c.Name}

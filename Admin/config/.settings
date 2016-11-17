@@ -1,0 +1,25 @@
+{
+    "projectName": "Admin",
+    "username": "aherrera@altimetrik.com",
+    "id": "5aeb8ed0-acd4-11e6-a5e1-4911e7f286ba",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na35.salesforce.com",
+    "workspace": "/Users/aherrera/Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "ApprovalProcess",
+        "CustomApplication",
+        "CustomObject",
+        "CustomTab",
+        "Dashboard",
+        "EmailTemplate",
+        "Profile",
+        "Report",
+        "StaticResource"
+    ]
+}
